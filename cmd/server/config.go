@@ -24,8 +24,8 @@ const (
 	defaultDatabaseAddress  = "0.0.0.0"
 	defaultDatabasePort     = "5432"
 	defaultDatabaseName     = "my_application"
-	defaultDatabaseUser     = "postgres"
-	defaultDatabasePassword = "postgres"
+	defaultDatabaseUser     = "anton"
+	defaultDatabasePassword = "03052021"
 	defaultDatabaseSSL      = "disable"
 	defaultDatabaseOption   = ""
 

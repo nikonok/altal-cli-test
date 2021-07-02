@@ -9,7 +9,9 @@ require (
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/infobloxopen/atlas-app-toolkit v0.24.2
+	github.com/infobloxopen/protoc-gen-atlas-validate v0.4.1
 	github.com/infobloxopen/protoc-gen-gorm v0.20.1
+	github.com/infobloxopen/protoc-gen-preprocess v0.3.3
 	github.com/jinzhu/gorm v1.9.16
 	github.com/prometheus/client_golang v1.11.0
 	github.com/sirupsen/logrus v1.8.1

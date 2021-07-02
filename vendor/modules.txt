@@ -65,6 +65,7 @@ github.com/hashicorp/hcl/json/token
 github.com/infobloxopen/atlas-app-toolkit/auth
 github.com/infobloxopen/atlas-app-toolkit/errors
 github.com/infobloxopen/atlas-app-toolkit/gateway
+github.com/infobloxopen/atlas-app-toolkit/gorm
 github.com/infobloxopen/atlas-app-toolkit/gorm/resource
 github.com/infobloxopen/atlas-app-toolkit/health
 github.com/infobloxopen/atlas-app-toolkit/query
@@ -74,9 +75,16 @@ github.com/infobloxopen/atlas-app-toolkit/rpc/errfields
 github.com/infobloxopen/atlas-app-toolkit/rpc/resource
 github.com/infobloxopen/atlas-app-toolkit/server
 github.com/infobloxopen/atlas-app-toolkit/util
+# github.com/infobloxopen/protoc-gen-atlas-validate v0.4.1
+## explicit
+github.com/infobloxopen/protoc-gen-atlas-validate/options
 # github.com/infobloxopen/protoc-gen-gorm v0.20.1
 ## explicit
+github.com/infobloxopen/protoc-gen-gorm/errors
 github.com/infobloxopen/protoc-gen-gorm/options
+# github.com/infobloxopen/protoc-gen-preprocess v0.3.3
+## explicit
+github.com/infobloxopen/protoc-gen-preprocess/options
 # github.com/jinzhu/gorm v1.9.16
 ## explicit
 github.com/jinzhu/gorm

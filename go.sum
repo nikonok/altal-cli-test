@@ -290,8 +290,12 @@ github.com/infobloxopen/atlas-app-toolkit v0.24.2 h1:OYMVUSpwfKBUPQpKaif6vR5aLH+
 github.com/infobloxopen/atlas-app-toolkit v0.24.2/go.mod h1:Pv4B9FcLYpli96gl5crQ6+aD/2W3igpss95fk3kWt5c=
 github.com/infobloxopen/go-trees v0.0.0-20180608122459-a1e500cde93c h1:Zt63tnA/s6TCOstEp8oApT42wrJGgLcQeF399HBFfoA=
 github.com/infobloxopen/go-trees v0.0.0-20180608122459-a1e500cde93c/go.mod h1:PcNJqIlcX/dj3DTG/+QQnRvSgTMG6CLpRMjWcv4+J6w=
+github.com/infobloxopen/protoc-gen-atlas-validate v0.4.1 h1:xdkjh07eTMJ+H0oQK7nBeLzxRpi6A/pTjydVy6nV5N0=
+github.com/infobloxopen/protoc-gen-atlas-validate v0.4.1/go.mod h1:EDXN2QJ7Qto8UwfBAaI9hTIJFvk39pFrFaejtEBqQRo=
 github.com/infobloxopen/protoc-gen-gorm v0.20.1 h1:xvTsbfUNxk9JIQwrQ/rCGJQxLyyi2IcxCMm3zixZrdE=
 github.com/infobloxopen/protoc-gen-gorm v0.20.1/go.mod h1:06fkQkck4VxEgGD8srTeJTMhLf5O0rgnka+9gota0pI=
+github.com/infobloxopen/protoc-gen-preprocess v0.3.3 h1:dZ+bs2n3RxRIrcCFRnEQKs6wegMnhPAKC3JbSCoWh2Q=
+github.com/infobloxopen/protoc-gen-preprocess v0.3.3/go.mod h1:toM47znMmABX/vtgLdtAMNqLNDHuXcdmy4/iVw+GMig=
 github.com/infobloxopen/themis v0.0.0-20180709114455-d62bb103665c h1:zvQgUyMIGrordcY2zvMVxqjHXyHAFmTo5nlxbj+0yqQ=
 github.com/infobloxopen/themis v0.0.0-20180709114455-d62bb103665c/go.mod h1:HBjRUK4sZC1j+43qyDUANbgEZCiULauOChUFuW51OZE=
 github.com/jinzhu/gorm v1.9.1/go.mod h1:Vla75njaFJ8clLU1W44h34PjIkijhjHIYnZxMqCdxqo=

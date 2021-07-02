@@ -49,5 +49,5 @@ func (server) GetVersion(context.Context, *empty.Empty) (*pb.VersionResponse, er
 
 // NewBasicServer returns an instance of the default server interface
 func NewBasicServer(database *gorm.DB) (pb.MyApplicationServer, error) {
-	return &server{db: database}, nil
+	return &pb.MyApplicationDefaultServer{}, nil
 }
